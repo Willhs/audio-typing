@@ -14,6 +14,7 @@
 - (Coming soon) text selections
 
 ##How to use:
+Install chuck http://chuck.cs.princeton.edu/.
 1. Use KeyCodePrinter.ck to determine key codes for your keyboard setup.
-2. Change default key codes in keys.txt (if needed).
+2. Change default key codes in keys.txt (if needed (probably will)).
 3. Run with Main.ck.
